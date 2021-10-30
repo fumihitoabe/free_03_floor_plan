@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: const <Widget>[
               Text(
-                'The Best my life is Now!!',
+                'The Best my life is Now& Future!!',
               ),
             ],
           ),
